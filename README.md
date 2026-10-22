@@ -74,13 +74,21 @@ A full-stack task management application with authentication, task organization,
 [Live Demo](https://task-flow1234.netlify.app/)
 
 
-### 🤝 Let's Connect
 
-I'm always interested in learning, collaborating on projects, and connecting with other developers.
+## 🤝 Let's Connect
 
-- GitHub: [@SAM2330](https://github.com/SAM2330)
+<p align="left">
+  <a href="https://github.com/SAM2330">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:samuelmulat74@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/samu3l.23/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
----
 
 
 
