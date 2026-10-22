@@ -57,6 +57,22 @@ A movie and TV discovery platform featuring trending titles, search, curated col
 
 [Live Demo](https://streamflix.pro.et/)
 
+### ₿ CryptoWatch — Cryptocurrency Market Dashboard
+
+A cryptocurrency dashboard for tracking market trends, exploring coins, and monitoring price movements through interactive charts and real-time market data.
+
+- 📈 Explore cryptocurrency prices and market trends.
+- 🔥 Discover trending cryptocurrencies.
+- 📊 View historical price charts across multiple time ranges.
+- 🔎 Search for cryptocurrencies and explore exchange rankings.
+- ⭐ Save favorite coins for quick access.
+- 🌙 Switch between light and dark themes.
+
+**Tech:** React · JavaScript · CoinGecko API · React Router · React Query
+
+🌐 [Live Demo](https://crypto-watch-phi.vercel.app/) · [Source Code](https://github.com/SAM2330?tab=repositories)
+
+
 #### 💼 CareerSync — Job & Recruitment Platform
 
 A recruitment platform designed to connect job seekers and employers through job listings, applications, saved jobs, and role-based dashboards.
